@@ -27,7 +27,9 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: rgb(255, 174, 0);
+  background:url('Zeichnung.svg') 0 0 no-repeat;
+  background-position: center;
+  background-color: rgb(236, 209, 49);
 }
 
 body {
@@ -48,6 +50,7 @@ body {
  */
 .masthead {
   margin-bottom: 2rem;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .masthead-brand {
@@ -102,5 +105,6 @@ body {
  * Footer
  */
 .mastfoot {
+  background-color: rgba(0, 0, 0, 0.5);
   color: rgba(255, 255, 255, .5);
 }
