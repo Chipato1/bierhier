@@ -1,0 +1,23 @@
+{
+  "name": "bierhier",
+  "version": "1.0.0",
+  "description": "Server for BierHier dependencies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chipato1/bierhier.git"
+  },
+  "author": "Carl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chipato1/bierhier/issues"
+  },
+  "homepage": "https://github.com/Chipato1/bierhier#readme",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
+}
