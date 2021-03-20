@@ -23,7 +23,7 @@ app.use('/public', express.static(process.cwd() + '/public'));
 
 routes(app);
 
-app.get('/',function (req, res) {
+app.get('/home',function (req, res) {
     res.render('pages/home')
 });
 
