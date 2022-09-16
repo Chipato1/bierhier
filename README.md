@@ -1,2 +1,2 @@
 # bierhier
-A Server for the BierHier company in Munich! Build on NodeJS.
+An initial draft-server for the for some BAAS (Beer as a Service) in Munich! Build on NodeJS.
